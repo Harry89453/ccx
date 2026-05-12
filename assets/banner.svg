@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f0f23"/>
+      <stop offset="100%" stop-color="#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="12" fill="url(#bg)"/>
+  <rect x="40" y="60" width="6" height="80" rx="3" fill="url(#accent)"/>
+  <text x="64" y="105" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="-2">ccx</text>
+  <text x="64" y="140" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" fill="#a1a1aa" letter-spacing="0.5">Package manager for Claude Code skills and hooks</text>
+  <g transform="translate(620, 55)">
+    <rect width="140" height="36" rx="18" fill="#c084fc" fill-opacity="0.15" stroke="#c084fc" stroke-opacity="0.3"/>
+    <text x="70" y="23" text-anchor="middle" font-family="monospace" font-size="13" fill="#c084fc">npm i -g ccx</text>
+  </g>
+</svg>
