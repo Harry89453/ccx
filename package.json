@@ -1,0 +1,55 @@
+{
+  "name": "ccx",
+  "version": "0.1.0",
+  "description": "Package manager for Claude Code skills and hooks",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "ccx": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --clean",
+    "dev": "tsup src/index.ts --format esm --watch",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "hooks",
+    "mcp",
+    "ai",
+    "package-manager",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harry89453/ccx.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist",
+    "registry"
+  ],
+  "dependencies": {
+    "commander": "^13.1.0",
+    "picocolors": "^1.1.1",
+    "semver": "^7.7.1",
+    "tar": "^7.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/semver": "^7.5.8",
+    "@types/tar": "^6.1.13",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.1.0"
+  }
+}
