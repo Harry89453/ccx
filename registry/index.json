@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "updated": "2026-05-12",
+  "packages": [
+    {
+      "name": "karpathy",
+      "version": "1.0.0",
+      "description": "Andrej Karpathy's CLAUDE.md for improved Claude Code behavior based on LLM coding observations",
+      "author": "forrestchang",
+      "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "tags": ["skills", "coding", "best-practices", "claude-md"],
+      "type": "skill",
+      "stars": 126000
+    },
+    {
+      "name": "mattpocock-skills",
+      "version": "1.0.0",
+      "description": "Matt Pocock's battle-tested skills for real engineers, straight from his .claude directory",
+      "author": "mattpocock",
+      "repository": "https://github.com/mattpocock/skills",
+      "tags": ["skills", "typescript", "engineering", "coding"],
+      "type": "skill",
+      "stars": 75000
+    },
+    {
+      "name": "agent-skills",
+      "version": "1.0.0",
+      "description": "Production-grade engineering skills for AI coding agents by Addy Osmani",
+      "author": "addyosmani",
+      "repository": "https://github.com/addyosmani/agent-skills",
+      "tags": ["skills", "production", "engineering", "best-practices"],
+      "type": "skill",
+      "stars": 40000
+    },
+    {
+      "name": "caveman",
+      "version": "1.0.0",
+      "description": "Reduce Claude Code token consumption by 65% through simplified communication style",
+      "author": "JuliusBrussee",
+      "repository": "https://github.com/JuliusBrussee/caveman",
+      "tags": ["tokens", "optimization", "cost-reduction"],
+      "type": "skill",
+      "stars": 58000
+    },
+    {
+      "name": "superpowers",
+      "version": "1.0.0",
+      "description": "Agentic skills framework and software development methodology",
+      "author": "obra",
+      "repository": "https://github.com/obra/superpowers",
+      "tags": ["skills", "framework", "methodology", "agents"],
+      "type": "skill",
+      "stars": 187000
+    },
+    {
+      "name": "design-md",
+      "version": "1.0.0",
+      "description": "Collection of DESIGN.md files for coding agents to generate matching UIs",
+      "author": "VoltAgent",
+      "repository": "https://github.com/VoltAgent/awesome-design-md",
+      "tags": ["design", "ui", "frontend", "design-system"],
+      "type": "skill",
+      "stars": 75000
+    },
+    {
+      "name": "get-shit-done",
+      "version": "1.0.0",
+      "description": "Lightweight meta-prompting and context engineering system for spec-driven development",
+      "author": "gsd-build",
+      "repository": "https://github.com/gsd-build/get-shit-done",
+      "tags": ["meta-prompting", "context", "specs", "productivity"],
+      "type": "skill",
+      "stars": 62000
+    },
+    {
+      "name": "graphify",
+      "version": "1.0.0",
+      "description": "Convert code folders and documentation into queryable knowledge graphs",
+      "author": "safishamsi",
+      "repository": "https://github.com/safishamsi/graphify",
+      "tags": ["knowledge-graph", "codebase", "documentation", "search"],
+      "type": "skill",
+      "stars": 47000
+    },
+    {
+      "name": "claude-best-practice",
+      "version": "1.0.0",
+      "description": "Educational resource for transitioning from informal coding to agentic engineering practices",
+      "author": "shanraisshan",
+      "repository": "https://github.com/shanraisshan/claude-code-best-practice",
+      "tags": ["best-practices", "education", "agentic", "engineering"],
+      "type": "skill",
+      "stars": 53000
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "version": "1.0.0",
+      "description": "AI skill providing design intelligence for professional UI/UX across web and mobile",
+      "author": "nextlevelbuilder",
+      "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "tags": ["ui", "ux", "design", "frontend", "mobile"],
+      "type": "skill",
+      "stars": 77000
+    },
+    {
+      "name": "garden-skills",
+      "version": "1.0.0",
+      "description": "Open-source skills collection featuring web design, knowledge retrieval, and image generation",
+      "author": "ConardLi",
+      "repository": "https://github.com/ConardLi/garden-skills",
+      "tags": ["skills", "web-design", "image-generation", "collection"],
+      "type": "skill",
+      "stars": 4200
+    },
+    {
+      "name": "ppt-skill",
+      "version": "1.0.0",
+      "description": "Convert prompts into magazine-style HTML presentation decks with WebGL backgrounds",
+      "author": "op7418",
+      "repository": "https://github.com/op7418/guizang-ppt-skill",
+      "tags": ["presentations", "slides", "html", "webgl"],
+      "type": "skill",
+      "stars": 7300
+    },
+    {
+      "name": "career-ops",
+      "version": "1.0.0",
+      "description": "AI-powered job search system with 14 skill modes and batch processing",
+      "author": "santifer",
+      "repository": "https://github.com/santifer/career-ops",
+      "tags": ["job-search", "career", "automation", "productivity"],
+      "type": "skill",
+      "stars": 44000
+    },
+    {
+      "name": "codex-skills",
+      "version": "1.0.0",
+      "description": "Practical Codex-compatible skills for workflow automation",
+      "author": "ComposioHQ",
+      "repository": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "tags": ["codex", "skills", "workflow", "automation"],
+      "type": "skill",
+      "stars": 8700
+    },
+    {
+      "name": "opensre",
+      "version": "1.0.0",
+      "description": "Build your own AI SRE agents with the open source toolkit",
+      "author": "Tracer-Cloud",
+      "repository": "https://github.com/Tracer-Cloud/opensre",
+      "tags": ["sre", "devops", "monitoring", "agents", "infrastructure"],
+      "type": "skill",
+      "stars": 4800
+    }
+  ]
+}
